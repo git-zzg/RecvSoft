@@ -1,0 +1,21 @@
+﻿生成启动时间为 2021/5/17 16:57:55。
+     1>项目“C:\Users\sprocomm\Desktop\新建文件夹 (2)\startsoftrecvfile\startsoftrecvfile\startsoftrecvfile.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\startsoftrecvfile.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\startsoftrecvfile.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt startsoftrecvfile.cpp
+         startsoftrecvfile.cpp
+     1>startsoftrecvfile.cpp(1): warning C4627: “#include <WinSock.h>”: 在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>startsoftrecvfile.cpp(79): warning C4129: “:”: 不可识别的字符转义序列
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sprocomm\Desktop\新建文件夹 (2)\startsoftrecvfile\Release\startsoftrecvfile.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\sprocomm\Desktop\新建文件夹 (2)\startsoftrecvfile\Release\startsoftrecvfile.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sprocomm\Desktop\新建文件夹 (2)\startsoftrecvfile\Release\startsoftrecvfile.lib" /MACHINE:X86 /SAFESEH Release\startsoftrecvfile.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         startsoftrecvfile.vcxproj -> C:\Users\sprocomm\Desktop\新建文件夹 (2)\startsoftrecvfile\Release\startsoftrecvfile.exe
+     1>已完成生成项目“C:\Users\sprocomm\Desktop\新建文件夹 (2)\startsoftrecvfile\startsoftrecvfile\startsoftrecvfile.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.65
